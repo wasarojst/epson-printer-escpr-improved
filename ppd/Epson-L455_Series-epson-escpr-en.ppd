@@ -153,7 +153,7 @@
 *ru.MediaType ENV_HIGH/Конверты-Качество: ""
 *ru.MediaType ENV_NORMAL/Конверты-Скорость: ""
 *CloseUI: *MediaType
-
+ 
 
 *OpenUI *Ink/Grayscale: PickOne
 *OrderDependency: 120 AnySetup *Ink
